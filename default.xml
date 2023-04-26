@@ -1190,4 +1190,7 @@
   <include name="remove.xml" />
   <include name="arrow.xml" />
 
+  <!-- surya dependencies -->
+  <include name="surya.xml" />
+
 </manifest>
